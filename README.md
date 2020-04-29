@@ -196,6 +196,28 @@ Update profile than link: [linkedin]()
 
 ## Additional information ##
 
-Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Aikido, Horses
+Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Aikido, Fencing, World music, Horses
 
-English - upper-intermediate, Deutsch - elementary, Español - beginner
+Languages: 
+* english - upper-intermediate
+* deutsch - elementary
+* español - beginner
+
+Travelling: 
+* Russia
+* Turkmenistan
+* India
+* Ukraine
+* Egypt
+* Finland
+* United Arab Emirates
+* Oman
+* Poland
+* Gernamy
+* Austria
+* Spain
+* China
+* Japan
+* France
+* Cyprus
+* Italy
