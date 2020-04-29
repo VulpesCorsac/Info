@@ -8,7 +8,21 @@ Georgii Aloian (Алоян Георгий)
 
 ## Education ##
 
-MIPT
+[LKSH](https://lksh.ru/) - [K-2010](https://lksh.ru/sis/2010/parallel-k.shtml), [B-2011](https://lksh.ru/sis/2011/parallels.shtml)
+
+Bachelor (2012 - 2016) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Department of Physical and Quantum Electronics](https://mipt.ru/english/edu/departments/dpqe) - Laser Physics)
+
+Master   (2016 - 2018) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
+
+PhD      (2018 -  now) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
+
+## Working experience ##
+
+[NTO "IRE-Polus"](https://www.ipgphotonics.com/ru) (2015 - now) - Researcher
+
+[Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Photonics Faculty [1](https://mipt.ru/education/chairs/photonics/indexnotlist.php) [2](https://mipt.ru/dpqe/departments/kafedra-fotoniki/)) (2016 - now) - Lecturer  
+
+[Moscow Institute of Physics and Technology](https://mipt.ru/) (Physics and Technology Correspondence School [1](https://zftsh.online/) [2](http://www.school.mipt.ru/)) (2012 - now) - Educator  
 
 ## Research ##
 
@@ -48,7 +62,7 @@ Update profile than link: [linkedin]()
 
 [codingame](https://www.codingame.com/profile/e0ab0fcec6bfdf4dfca1f12703acf1340070573)
 
-[euler project](https://projecteuler.net/progress=VulpesCorsac)
+[project Euler](https://projecteuler.net/progress=VulpesCorsac)
 
 ## Cources ##
 
@@ -92,4 +106,6 @@ Update profile than link: [linkedin]()
 
 ## Additional information ##
 
-TODO
+Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Aikido, Horses
+
+English - upper-intermediate, Deutsch - elementary, Español - beginner
