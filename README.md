@@ -26,7 +26,7 @@ PhD  (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru
 
 ## Research ##
 
-### Publications (2 WoS, 11 Scopus, 4 РИНЦ) ###
+### Publications (36 total, 2 WoS, 11 Scopus, 4 РИНЦ) ###
 
 1. Aloyan G.A., Kovalenko N.V. and Ryabushkin O.A. Determination of surface equivalent temperature of active elements for microelectronics and photonics // Proceedings of the 2016 International Conference on Mechanics and Materials Science (MMS2016). 2016. PP. 1177-1182. - WoS
 2. Алоян Г. А., Алексахина А. С., Рябушкин О. А. «Радиочастотно-оптическая спектроскопия активных элементов лазерных материалов» // 59-я Всероссийская научная конференция МФТИ (21–26 ноября 2016).
@@ -66,7 +66,7 @@ PhD  (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru
 36. Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, Т.К. Карпова, А.В. Смирнов, О.А. Рябушкин Измерение Оптических Свойств Рассеивающих Сред На Основе Гониометрического Метода С Использованием Интегрирующих Сфер И Математического Моделирования Монте-Карло // IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020 PP. 326-327
 
 
-### Conferences ###
+### Conferences (20 total, 35 talks) ###
 
 1. International Conference on Mechanics and Material Science ICMMS 2016, China, Guangzhou, 15-16 October 2016.
 - Aloyan G. A., Kovalenko N. V., Ryabushkin O. A. «Determination of Surface Equivalent Temperature of Active Elements for Microelectronics and Photonics»
