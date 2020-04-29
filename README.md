@@ -8,7 +8,13 @@ Georgii Aloian (Алоян Георгий)
 
 ## Education ##
 
-[LKSH](https://lksh.ru/) - [K-2010](https://lksh.ru/sis/2010/parallel-k.shtml), [B-2011](https://lksh.ru/sis/2011/parallels.shtml)
+[LKSh](https://lksh.ru/) - [K-2010](https://lksh.ru/sis/2010/parallel-k.shtml), [B-2011](https://lksh.ru/sis/2011/parallels.shtml)
+
+[LShI](https://www.letnyayashkola.org/workshops/) - 2008-2010
+
+School (2001-2008) - [School №12, Obninsk](https://www.school012.ru/)
+
+School (2008-2012) - [Physical-Technical School, Obninsk](https://ftshschool.nubex.ru/)
 
 Bachelor (2012 - 2016) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Department of Physical and Quantum Electronics](https://mipt.ru/english/edu/departments/dpqe) - Laser Physics)
 
@@ -196,7 +202,7 @@ Update profile than link: [linkedin]()
 
 ## Additional information ##
 
-Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Aikido, Fencing, World music, Horses
+Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
 
 Languages: 
 * english - upper-intermediate
