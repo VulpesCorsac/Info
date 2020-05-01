@@ -130,6 +130,16 @@ PhD  (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru
 - Г.А. Алоян, Н.В. Коваленко, В.М. Агафонов, Д.М. Муханьков, А.В. Коняшкин, О.А. Рябушкин «Концепция эквивалентной температуры матетиалов в условиях неоднородного распределения температуры»
 - Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, Т.К. Карпова, А.В. Смирнов, О.А. Рябушкин «Измерение Оптических Свойств Рассеивающих Сред На Основе Гониометрического Метода С Использованием Интегрирующих Сфер И Математического Моделирования Монте-Карло»
 
+## School Achievements ##
+
+### Conferences ###
+
+TODO
+
+### Olimpiads ###
+
+TODO
+
 ## Accounts ##
 
 [vk](https://vk.com/corsacvulpes)
@@ -146,7 +156,7 @@ PhD  (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru
 
 [github](https://github.com/VulpesCorsac)
 
-Update profile than link: [linkedin]()
+TODO - Update profile: [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
 
 [codeforces](https://codeforces.com/profile/Corsac)
 
@@ -190,15 +200,15 @@ Update profile than link: [linkedin]()
 
 [Specialization](https://www.coursera.org/specializations/jhu-data-science)
 
-[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), [certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972573~7848484/pdf)
+[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972573~7848484/pdf)
 
-[R Programming](https://www.coursera.org/learn/r-programming), [certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972578~7848484/pdf)
+[R Programming](https://www.coursera.org/learn/r-programming), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972578~7848484/pdf)
 
 #### Additional Cources ####
 
-[Programming for Everybody - Python](https://www.coursera.org/learn/python), [certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972498~7848484/pdf)
+[Programming for Everybody - Python](https://www.coursera.org/learn/python), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972498~7848484/pdf)
 
-[Cryptography I](https://www.coursera.org/learn/crypto), [certificate](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972828~7848484/pdf)
+[Cryptography I](https://www.coursera.org/learn/crypto), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972828~7848484/pdf)
 
 ## Additional information ##
 
