@@ -156,6 +156,8 @@ TODO
 
 [hackerrank](https://www.hackerrank.com/shaxirrim)
 
+[codewars](https://www.codewars.com/users/VulpesCorsac)
+
 [github](https://github.com/VulpesCorsac)
 
 TODO - Update profile: [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
