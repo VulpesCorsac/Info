@@ -158,6 +158,10 @@ TODO
 
 [codewars](https://www.codewars.com/users/VulpesCorsac)
 
+[codecombat](https://codecombat.com/user/vulpescorsac)
+
+[checkio](https://py.checkio.org/user/VulpesCorsac/)
+
 [github](https://github.com/VulpesCorsac)
 
 TODO - Update profile: [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
