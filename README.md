@@ -142,43 +142,28 @@ TODO
 
 ## Accounts ##
 
-[vk](https://vk.com/corsacvulpes)
+* [vk](https://vk.com/corsacvulpes)
+* [facebook](https://www.facebook.com/CorsacVulpes)
+* [instagram](https://www.instagram.com/corsacvulpes/)
+* [telegram](https://t.me/CorsacVulpes)
+* [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
 
-[facebook](https://www.facebook.com/CorsacVulpes)
+* [coursera](https://www.coursera.org/user/bdeee27f4efb54e63652c721dce1b4f3)
+* [stepic](https://stepik.org/users/169333974)
+* [hackerrank](https://www.hackerrank.com/shaxirrim)
+* [codewars](https://www.codewars.com/users/VulpesCorsac)
+* [codecombat](https://codecombat.com/user/vulpescorsac)
+* [checkio](https://py.checkio.org/user/VulpesCorsac/)
 
-[instagram](https://www.instagram.com/corsacvulpes/)
+* [github](https://github.com/VulpesCorsac)
 
-[telegram](https://t.me/CorsacVulpes)
-
-[coursera](https://www.coursera.org/user/bdeee27f4efb54e63652c721dce1b4f3)
-
-[stepic](https://stepik.org/users/169333974)
-
-[hackerrank](https://www.hackerrank.com/shaxirrim)
-
-[codewars](https://www.codewars.com/users/VulpesCorsac)
-
-[codecombat](https://codecombat.com/user/vulpescorsac)
-
-[checkio](https://py.checkio.org/user/VulpesCorsac/)
-
-[github](https://github.com/VulpesCorsac)
-
-TODO - Update profile: [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
-
-[codeforces](https://codeforces.com/profile/Corsac)
-
-[acm.timus.ru](https://acm.timus.ru/author.aspx?id=87200)
-
-[acmp.ru](https://acmp.ru/index.asp?main=user&id=14500)
-
-[informatics.mccme.ru](https://informatics.mccme.ru/user/view.php?id=15683)
-
-[atCoder](https://atcoder.jp/users/VulpesCorsac)
-
-[codingame](https://www.codingame.com/profile/e0ab0fcec6bfdf4dfca1f12703acf1340070573)
-
-[project Euler](https://projecteuler.net/progress=VulpesCorsac)
+* [codeforces](https://codeforces.com/profile/Corsac)
+* [acm.timus.ru](https://acm.timus.ru/author.aspx?id=87200)
+* [acmp.ru](https://acmp.ru/index.asp?main=user&id=14500)
+* [informatics.mccme.ru](https://informatics.mccme.ru/user/view.php?id=15683)
+* [atCoder](https://atcoder.jp/users/VulpesCorsac)
+* [codingame](https://www.codingame.com/profile/e0ab0fcec6bfdf4dfca1f12703acf1340070573)
+* [project Euler](https://projecteuler.net/progress=VulpesCorsac)
 
 ## Cources ##
 
@@ -188,37 +173,60 @@ TODO - Update profile: [linkedin](https://www.linkedin.com/in/george-aloyan-2328
 
 [Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 
-[White belt](https://www.coursera.org/learn/c-plus-plus-white), [certificate](https://coursera.org/share/d905bf1756d2339a392239845277cf26)
-
-[Yellow belt](https://www.coursera.org/learn/c-plus-plus-yellow), [certificate](https://coursera.org/share/9ffd20b178c60b6324770ee6ffff0751)
-
-[Red belt](https://www.coursera.org/learn/c-plus-plus-red), [certificate](https://coursera.org/share/74d8282e843000b28388a4f12651c5b0)
+* [White belt](https://www.coursera.org/learn/c-plus-plus-white), [certificate](https://coursera.org/share/d905bf1756d2339a392239845277cf26)
+* [Yellow belt](https://www.coursera.org/learn/c-plus-plus-yellow), [certificate](https://coursera.org/share/9ffd20b178c60b6324770ee6ffff0751)
+* [Red belt](https://www.coursera.org/learn/c-plus-plus-red), [certificate](https://coursera.org/share/74d8282e843000b28388a4f12651c5b0)
 
 #### Programming in Python ####
 
 [Specialization](https://www.coursera.org/specializations/programming-in-python)
 
-[Diving to Python](https://www.coursera.org/learn/diving-in-python), [certificate](https://coursera.org/share/0d704fdd9522fc2a614c717b105379d3)
+* [Diving to Python](https://www.coursera.org/learn/diving-in-python), [certificate](https://coursera.org/share/0d704fdd9522fc2a614c717b105379d3)
 
 #### Machine Learning and Data Analysis ####
 
 [Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 
-[Mathematics and Python](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis), [certificate](https://coursera.org/share/a474ba0b329bd443942ba5230c8abf85)
+* [Mathematics and Python](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis), [certificate](https://coursera.org/share/a474ba0b329bd443942ba5230c8abf85)
 
 #### John Hopkins University - Data Science ####
 
 [Specialization](https://www.coursera.org/specializations/jhu-data-science)
 
-[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972573~7848484/pdf)
-
-[R Programming](https://www.coursera.org/learn/r-programming), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972578~7848484/pdf)
+* [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972573~7848484/pdf)
+* [R Programming](https://www.coursera.org/learn/r-programming), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972578~7848484/pdf)
 
 #### Additional Cources ####
 
-[Programming for Everybody - Python](https://www.coursera.org/learn/python), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972498~7848484/pdf)
+* [Programming for Everybody - Python](https://www.coursera.org/learn/python), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972498~7848484/pdf)
+* [Cryptography I](https://www.coursera.org/learn/crypto), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972828~7848484/pdf)
 
-[Cryptography I](https://www.coursera.org/learn/crypto), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972828~7848484/pdf)
+### Splunk ###
+
+#### Splunk ####
+
+[Splunk 7.x Fundamentals Part 1](https://education.splunk.com/catalog?category=splunk-fundamentals-part-1) - [certificate](https://education.splunk.com/award/completion/d17c1b50-393a-3c26-ac90-bf2c85e8d8b8)
+
+[Splunk Infrastructure Overview](https://education.splunk.com/catalog?category=splunk-infrastructure-overview) - [certificate](https://education.splunk.com/award/completion/2221eb5e-0033-3e4e-b791-3b7cc3d6be41/preview)
+
+
+#### UBA ####
+
+[Splunk User Behavior Analytics](https://education.splunk.com/catalog?category=uba-courses) - [certificate](https://education.splunk.com/award/completion/5658686f-9198-305c-8e8a-fd30b4f16185)
+
+#### Signal Fx ###
+
+* [01 The SignalFx Solution](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/16db8c2e-511d-3e24-9d7f-52c5bc33920c)
+* [02 The SignalFx Data Model](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/7ccaad90-7c28-3567-8ccd-367c45578afe)
+* [03 Use Cases for SignalFx Metrics](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/bdafd02d-7498-3d6d-84f6-368593718761)
+* [04 Visualizing SignalFx Metrics](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/4a154138-2568-3523-b197-24a16231109f)
+* [05 Creating SignalFx Detectors and Alerts](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/07a14c9d-7100-3bd9-8c47-471e638e1887)
+* [06 Leveraging SignalFx Analytics](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/c6955479-0409-32fa-ae19-725d0ba4ee08)
+* [07 Collaborating on SignalFx Charts & Dashboards](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/c52a6f39-7bd5-337a-bb0b-e447c4eeb472)
+* [08 Introduction to the SignalFx API](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/9c6574d5-fd59-3f46-ba18-4078e0c809a0)
+* [09 SignalFx Teams](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/a0f73eff-7949-30cb-a04f-214c3a237cda)
+* [10 Introduction to SignalFx Microservices APM (Previous Generation)](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/2750862a-56d0-32cd-8f8d-f02becbb3d87)
+* [10 Introduction to SignalFx Microservices APM (CURRENT)](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - No award though course finished
 
 ## Additional information ##
 
