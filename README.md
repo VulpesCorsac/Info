@@ -140,7 +140,7 @@ to be continued...
 
 TODO
 
-### Olimpiads ###
+### Olympiads ###
 
 TODO
 
@@ -175,7 +175,7 @@ TODO
 * [codingame](https://www.codingame.com/profile/e0ab0fcec6bfdf4dfca1f12703acf1340070573)
 * [project Euler](https://projecteuler.net/progress=VulpesCorsac)
 
-## Cources ##
+## Courses ##
 
 ### Coursera ###
 
@@ -206,7 +206,7 @@ TODO
 * [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972573~7848484/pdf)
 * [R Programming](https://www.coursera.org/learn/r-programming), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972578~7848484/pdf)
 
-#### Additional Cources ####
+#### Additional Courses ####
 
 * [Programming for Everybody - Python](https://www.coursera.org/learn/python), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972498~7848484/pdf)
 * [Cryptography I](https://www.coursera.org/learn/crypto), [certificate - old version, must login or find attached](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972828~7848484/pdf)
@@ -257,7 +257,7 @@ Travelling:
 * United Arab Emirates
 * Oman
 * Poland
-* Gernamy
+* Germany
 * Austria
 * Spain
 * China
