@@ -8,27 +8,31 @@ Georgii Aloian (Алоян Георгий)
 
 ## Education ##
 
-[LKSh](https://lksh.ru/) - [K-2010](https://lksh.ru/sis/2010/parallel-k.shtml), [B-2011](https://lksh.ru/sis/2011/parallels.shtml)
+* [LShI](https://www.letnyayashkola.org/workshops/) - 2008-2010
+* [LKSh](https://lksh.ru/) - [K-2010](https://lksh.ru/sis/2010/parallel-k.shtml), [B-2011](https://lksh.ru/sis/2011/parallels.shtml)
 
-[LShI](https://www.letnyayashkola.org/workshops/) - 2008-2010
+--- 
 
-School (2001-2008) - [School №12, Obninsk](https://www.school012.ru/)
+* School (2001-2008) - [School №12, Obninsk](https://www.school012.ru/)
+* School (2008-2012) - [Physical-Technical School, Obninsk](https://ftshschool.nubex.ru/)
 
-School (2008-2012) - [Physical-Technical School, Obninsk](https://ftshschool.nubex.ru/)
+--- 
 
-Bachelor (2012 - 2016) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Department of Physical and Quantum Electronics](https://mipt.ru/english/edu/departments/dpqe) - Laser Physics)
-
-Master (2016 - 2018) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
-
-PhD  (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
+* Bachelor (2012 - 2016) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Department of Physical and Quantum Electronics](https://mipt.ru/english/edu/departments/dpqe) - Laser Physics)
+* Master (2016 - 2018) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
+* PhD (2018 - now) - [Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Laser Physics)
 
 ## Working experience ##
 
-[NTO "IRE-Polus"](https://www.ipgphotonics.com/ru) (2015 - now) - Researcher
+[NTO "IRE-Polus"](https://www.ipgphotonics.com/ru) (2015 - 2020) - Researcher
 
-[Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Photonics Faculty [1](https://mipt.ru/education/chairs/photonics/indexnotlist.php) [2](https://mipt.ru/dpqe/departments/kafedra-fotoniki/)) (2016 - now) - Lecturer 
+[Moscow Institute of Physics and Technology](https://mipt.ru/) ([Phystech School of Electronics, Photonics and Molecular Physics](https://mipt.ru/english/edu/phystechschools/psmsqs) - Photonics Faculty [1](https://mipt.ru/education/chairs/photonics/indexnotlist.php) [2](https://mipt.ru/dpqe/departments/kafedra-fotoniki/)) (2016 - 2020) - Lecturer 
 
 [Moscow Institute of Physics and Technology](https://mipt.ru/) (Physics and Technology Correspondence School [1](https://zftsh.online/) [2](http://www.school.mipt.ru/)) (2012 - now) - Educator
+
+--- 
+
+to be continued...
 
 ## Research ##
 
@@ -148,6 +152,8 @@ TODO
 * [telegram](https://t.me/CorsacVulpes)
 * [linkedin](https://www.linkedin.com/in/george-aloyan-2328a1120/)
 
+--- 
+
 * [coursera](https://www.coursera.org/user/bdeee27f4efb54e63652c721dce1b4f3)
 * [stepic](https://stepik.org/users/169333974)
 * [hackerrank](https://www.hackerrank.com/shaxirrim)
@@ -155,7 +161,11 @@ TODO
 * [codecombat](https://codecombat.com/user/vulpescorsac)
 * [checkio](https://py.checkio.org/user/VulpesCorsac/)
 
+--- 
+
 * [github](https://github.com/VulpesCorsac)
+
+--- 
 
 * [codeforces](https://codeforces.com/profile/Corsac)
 * [acm.timus.ru](https://acm.timus.ru/author.aspx?id=87200)
