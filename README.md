@@ -238,6 +238,12 @@ TODO
 * [10 Introduction to SignalFx Microservices APM (Previous Generation)](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - [certificate](https://education.splunk.com/award/completion/2750862a-56d0-32cd-8f8d-f02becbb3d87)
 * [10 Introduction to SignalFx Microservices APM (CURRENT)](https://education.splunk.com/catalog?category=signalfx-elearning-courses) - No award though course finished
 
+### Udemy ###
+
+[Understanding Jira for users, managers and admins](https://www.udemy.com/course/introduction-to-jira/) - [certificate](https://www.udemy.com/certificate/UC-9809440b-4fe7-43a4-9b2f-29a32e94a772)
+
+[Learn JIRA with real-world examples (+Confluence bonus)](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/) - [certificate](https://www.udemy.com/certificate/UC-d6fe4711-c13d-4e12-8042-24228137831f)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
