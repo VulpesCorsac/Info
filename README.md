@@ -244,6 +244,8 @@ TODO
 
 [Learn JIRA with real-world examples (+Confluence bonus)](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/) - [certificate](https://www.udemy.com/certificate/UC-d6fe4711-c13d-4e12-8042-24228137831f)
 
+[Agile Crash Course: Agile Project Management; Agile Delivery](https://www.udemy.com/course/agile-crash-course/) - [certificate](https://www.udemy.com/certificate/UC-85169d2f-a79e-4611-9f09-6ea9f873db9d)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
