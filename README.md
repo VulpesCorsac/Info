@@ -246,6 +246,8 @@ TODO
 
 [Agile Crash Course: Agile Project Management; Agile Delivery](https://www.udemy.com/course/agile-crash-course/) - [certificate](https://www.udemy.com/certificate/UC-85169d2f-a79e-4611-9f09-6ea9f873db9d)
 
+[How to Present Your Thoughts Smoothly, Clearly & Powerfully](https://www.udemy.com/course/how-to-present-your-thoughts-smoothly-clearly-powerfully/) - [certificate](https://www.udemy.com/certificate/UC-502b47e5-ab12-466f-9787-401d25f5b08f)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
