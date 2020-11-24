@@ -252,6 +252,10 @@ TODO
 
 [Design thinking for entrepreneurs & startups (part 1)](https://www.udemy.com/course/design-thinking-for-entrepreneurs-startups-part-1/) - [certificate](https://www.udemy.com/certificate/UC-1973c78e-96b2-4569-a409-afa0295a8f0f/)
 
+### Pluralsight ###
+
+[C++ 17: Beyond the Basics](https://app.pluralsight.com/library/courses/cplusplus-17-beyond-the-basics/) - [certificate]()
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
