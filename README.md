@@ -248,6 +248,8 @@ TODO
 
 [How to Present Your Thoughts Smoothly, Clearly & Powerfully](https://www.udemy.com/course/how-to-present-your-thoughts-smoothly-clearly-powerfully/) - [certificate](https://www.udemy.com/certificate/UC-502b47e5-ab12-466f-9787-401d25f5b08f)
 
+[AWS Essentials](https://www.udemy.com/course/aws-essentials-z/) - [certificate](https://www.udemy.com/certificate/UC-c5b38e51-8e61-432a-bd72-59ea1c5b8f38/)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
