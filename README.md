@@ -250,6 +250,8 @@ TODO
 
 [AWS Essentials](https://www.udemy.com/course/aws-essentials-z/) - [certificate](https://www.udemy.com/certificate/UC-c5b38e51-8e61-432a-bd72-59ea1c5b8f38/)
 
+[Design thinking for entrepreneurs & startups (part 1)](https://www.udemy.com/course/design-thinking-for-entrepreneurs-startups-part-1/) - [certificate](https://www.udemy.com/certificate/UC-1973c78e-96b2-4569-a409-afa0295a8f0f/)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
