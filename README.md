@@ -256,6 +256,8 @@ TODO
 
 [C++ 17: Beyond the Basics](https://app.pluralsight.com/library/courses/cplusplus-17-beyond-the-basics/) - [certificate]()
 
+[Reading Legacy C++](https://app.pluralsight.com/library/courses/reading-legacy-cplusplus/) - [certificate]()
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
