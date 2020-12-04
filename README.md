@@ -258,6 +258,40 @@ TODO
 
 [Reading Legacy C++](https://app.pluralsight.com/library/courses/reading-legacy-cplusplus/) - [certificate]()
 
+[Beautiful C++: Updating Legacy Code](https://app.pluralsight.com/library/courses/cpp-updating-legacy-code/) - [certificate]()
+
+[Beautiful C++: STL Algorithms](https://app.pluralsight.com/library/courses/beautiful-cplusplus-stl-algorithms/) - [certificate]()
+
+[Getting Started with Travis CI](https://app.pluralsight.com/library/courses/getting-started-travis-ci/) - [certificate]()
+
+[Jira Workflow Creation and Customization](https://app.pluralsight.com/library/courses/jira-workflow-creation-customization/) - [certificate]()
+
+[JIRA Fundamentals](https://app.pluralsight.com/library/courses/jira-fundamentals-update/) - [certificate]()
+
+[Jira Integrations](https://app.pluralsight.com/library/courses/jira-integrations/) - [certificate]()
+
+[Jira: Getting Started](https://app.pluralsight.com/library/courses/jira-getting-started/) - [certificate]()
+
+[Jira Project Customization](https://app.pluralsight.com/library/courses/jira-project-customization/) - [certificate]()
+
+[Employing the Splunk Common Information Model (CIM)](https://app.pluralsight.com/library/courses/employing-splunk-common-information-model/) - [certificate]()
+
+[Installing and Configuring Splunk](https://app.pluralsight.com/library/courses/installing-configuring-splunk/table-of-contents) - [certificate]()
+
+[Creating Workflow Actions in Splunk](https://app.pluralsight.com/library/courses/creating-workflow-actions-splunk/) - [certificate]()
+
+[Correlating Events with Transactions in Splunk](https://app.pluralsight.com/library/courses/correlating-events-transactions-splunk/) - [certificate]()
+
+[Optimizing Fields, Tags, and Event Types in Splunk](https://app.pluralsight.com/library/courses/optimizing-fields-tags-event-types-splunk/) - [certificate]()
+
+[Creating Data Models and Optimizing Pivot in Splunk](https://app.pluralsight.com/library/courses/creating-data-models-optimizing-pivot-splunk/) - [certificate]()
+
+[Generating Tailored Searches in Splunk](https://app.pluralsight.com/library/courses/generating-tailored-searches-splunk/) - [certificate]()
+
+[Building Reports, Dashboards, and Alerts in Splunk](https://app.pluralsight.com/library/courses/building-reports-dashboards-alerts-splunk/) - [certificate]()
+
+[Performing Basic Splunk Searches](https://app.pluralsight.com/library/courses/splunk-performing-basic-searches/) - [certificate]()
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
