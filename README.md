@@ -240,57 +240,34 @@ TODO
 
 ### Udemy ###
 
-[Understanding Jira for users, managers and admins](https://www.udemy.com/course/introduction-to-jira/) - [certificate](https://www.udemy.com/certificate/UC-9809440b-4fe7-43a4-9b2f-29a32e94a772)
-
-[Learn JIRA with real-world examples (+Confluence bonus)](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/) - [certificate](https://www.udemy.com/certificate/UC-d6fe4711-c13d-4e12-8042-24228137831f)
-
-[Agile Crash Course: Agile Project Management; Agile Delivery](https://www.udemy.com/course/agile-crash-course/) - [certificate](https://www.udemy.com/certificate/UC-85169d2f-a79e-4611-9f09-6ea9f873db9d)
-
-[How to Present Your Thoughts Smoothly, Clearly & Powerfully](https://www.udemy.com/course/how-to-present-your-thoughts-smoothly-clearly-powerfully/) - [certificate](https://www.udemy.com/certificate/UC-502b47e5-ab12-466f-9787-401d25f5b08f)
-
-[AWS Essentials](https://www.udemy.com/course/aws-essentials-z/) - [certificate](https://www.udemy.com/certificate/UC-c5b38e51-8e61-432a-bd72-59ea1c5b8f38/)
-
-[Design thinking for entrepreneurs & startups (part 1)](https://www.udemy.com/course/design-thinking-for-entrepreneurs-startups-part-1/) - [certificate](https://www.udemy.com/certificate/UC-1973c78e-96b2-4569-a409-afa0295a8f0f/)
+* [Understanding Jira for users, managers and admins](https://www.udemy.com/course/introduction-to-jira/) - [certificate](https://www.udemy.com/certificate/UC-9809440b-4fe7-43a4-9b2f-29a32e94a772)
+* [Learn JIRA with real-world examples (+Confluence bonus)](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/) - [certificate](https://www.udemy.com/certificate/UC-d6fe4711-c13d-4e12-8042-24228137831f)
+* [Agile Crash Course: Agile Project Management; Agile Delivery](https://www.udemy.com/course/agile-crash-course/) - [certificate](https://www.udemy.com/certificate/UC-85169d2f-a79e-4611-9f09-6ea9f873db9d)
+* [How to Present Your Thoughts Smoothly, Clearly & Powerfully](https://www.udemy.com/course/how-to-present-your-thoughts-smoothly-clearly-powerfully/) - [certificate](https://www.udemy.com/certificate/UC-502b47e5-ab12-466f-9787-401d25f5b08f)
+* [AWS Essentials](https://www.udemy.com/course/aws-essentials-z/) - [certificate](https://www.udemy.com/certificate/UC-c5b38e51-8e61-432a-bd72-59ea1c5b8f38/)
+* [Design thinking for entrepreneurs & startups (part 1)](https://www.udemy.com/course/design-thinking-for-entrepreneurs-startups-part-1/) - [certificate](https://www.udemy.com/certificate/UC-1973c78e-96b2-4569-a409-afa0295a8f0f/)
 
 ### Pluralsight ###
 
-[C++ 17: Beyond the Basics](https://app.pluralsight.com/library/courses/cplusplus-17-beyond-the-basics/) - [certificate]()
-
-[Reading Legacy C++](https://app.pluralsight.com/library/courses/reading-legacy-cplusplus/) - [certificate]()
-
-[Beautiful C++: Updating Legacy Code](https://app.pluralsight.com/library/courses/cpp-updating-legacy-code/) - [certificate]()
-
-[Beautiful C++: STL Algorithms](https://app.pluralsight.com/library/courses/beautiful-cplusplus-stl-algorithms/) - [certificate]()
-
-[Getting Started with Travis CI](https://app.pluralsight.com/library/courses/getting-started-travis-ci/) - [certificate]()
-
-[Jira Workflow Creation and Customization](https://app.pluralsight.com/library/courses/jira-workflow-creation-customization/) - [certificate]()
-
-[JIRA Fundamentals](https://app.pluralsight.com/library/courses/jira-fundamentals-update/) - [certificate]()
-
-[Jira Integrations](https://app.pluralsight.com/library/courses/jira-integrations/) - [certificate]()
-
-[Jira: Getting Started](https://app.pluralsight.com/library/courses/jira-getting-started/) - [certificate]()
-
-[Jira Project Customization](https://app.pluralsight.com/library/courses/jira-project-customization/) - [certificate]()
-
-[Employing the Splunk Common Information Model (CIM)](https://app.pluralsight.com/library/courses/employing-splunk-common-information-model/) - [certificate]()
-
-[Installing and Configuring Splunk](https://app.pluralsight.com/library/courses/installing-configuring-splunk/table-of-contents) - [certificate]()
-
-[Creating Workflow Actions in Splunk](https://app.pluralsight.com/library/courses/creating-workflow-actions-splunk/) - [certificate]()
-
-[Correlating Events with Transactions in Splunk](https://app.pluralsight.com/library/courses/correlating-events-transactions-splunk/) - [certificate]()
-
-[Optimizing Fields, Tags, and Event Types in Splunk](https://app.pluralsight.com/library/courses/optimizing-fields-tags-event-types-splunk/) - [certificate]()
-
-[Creating Data Models and Optimizing Pivot in Splunk](https://app.pluralsight.com/library/courses/creating-data-models-optimizing-pivot-splunk/) - [certificate]()
-
-[Generating Tailored Searches in Splunk](https://app.pluralsight.com/library/courses/generating-tailored-searches-splunk/) - [certificate]()
-
-[Building Reports, Dashboards, and Alerts in Splunk](https://app.pluralsight.com/library/courses/building-reports-dashboards-alerts-splunk/) - [certificate]()
-
-[Performing Basic Splunk Searches](https://app.pluralsight.com/library/courses/splunk-performing-basic-searches/) - [certificate]()
+* [C++ 17: Beyond the Basics](https://app.pluralsight.com/library/courses/cplusplus-17-beyond-the-basics/) - [certificate]()
+* [Reading Legacy C++](https://app.pluralsight.com/library/courses/reading-legacy-cplusplus/) - [certificate]()
+* [Beautiful C++: Updating Legacy Code](https://app.pluralsight.com/library/courses/cpp-updating-legacy-code/) - [certificate]()
+* [Beautiful C++: STL Algorithms](https://app.pluralsight.com/library/courses/beautiful-cplusplus-stl-algorithms/) - [certificate]()
+* [Getting Started with Travis CI](https://app.pluralsight.com/library/courses/getting-started-travis-ci/) - [certificate]()
+* [Jira Workflow Creation and Customization](https://app.pluralsight.com/library/courses/jira-workflow-creation-customization/) - [certificate]()
+* [JIRA Fundamentals](https://app.pluralsight.com/library/courses/jira-fundamentals-update/) - [certificate]()
+* [Jira Integrations](https://app.pluralsight.com/library/courses/jira-integrations/) - [certificate]()
+* [Jira: Getting Started](https://app.pluralsight.com/library/courses/jira-getting-started/) - [certificate]()
+* [Jira Project Customization](https://app.pluralsight.com/library/courses/jira-project-customization/) - [certificate]()
+* [Employing the Splunk Common Information Model (CIM)](https://app.pluralsight.com/library/courses/employing-splunk-common-information-model/) - [certificate]()
+* [Installing and Configuring Splunk](https://app.pluralsight.com/library/courses/installing-configuring-splunk/table-of-contents) - [certificate]()
+* [Creating Workflow Actions in Splunk](https://app.pluralsight.com/library/courses/creating-workflow-actions-splunk/) - [certificate]()
+* [Correlating Events with Transactions in Splunk](https://app.pluralsight.com/library/courses/correlating-events-transactions-splunk/) - [certificate]()
+* [Optimizing Fields, Tags, and Event Types in Splunk](https://app.pluralsight.com/library/courses/optimizing-fields-tags-event-types-splunk/) - [certificate]()
+* [Creating Data Models and Optimizing Pivot in Splunk](https://app.pluralsight.com/library/courses/creating-data-models-optimizing-pivot-splunk/) - [certificate]()
+* [Generating Tailored Searches in Splunk](https://app.pluralsight.com/library/courses/generating-tailored-searches-splunk/) - [certificate]()
+* [Building Reports, Dashboards, and Alerts in Splunk](https://app.pluralsight.com/library/courses/building-reports-dashboards-alerts-splunk/) - [certificate]()
+* [Performing Basic Splunk Searches](https://app.pluralsight.com/library/courses/splunk-performing-basic-searches/) - [certificate]()
 
 ## Additional information ##
 
