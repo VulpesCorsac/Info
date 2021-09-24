@@ -36,7 +36,7 @@ to be continued...
 
 ## Research ##
 
-### Publications (36 total, 2 WoS, 11 Scopus, 4 РИНЦ) ###
+### Publications (37 total, 2 WoS, 11 Scopus, 4 РИНЦ) ###
 
 1. Aloyan G.A., Kovalenko N.V. and Ryabushkin O.A. Determination of surface equivalent temperature of active elements for microelectronics and photonics // Proceedings of the 2016 International Conference on Mechanics and Materials Science (MMS2016). 2016. PP. 1177-1182. - WoS
 2. Алоян Г. А., Алексахина А. С., Рябушкин О. А. «Радиочастотно-оптическая спектроскопия активных элементов лазерных материалов» // 59-я Всероссийская научная конференция МФТИ (21–26 ноября 2016).
@@ -74,9 +74,9 @@ to be continued...
 34. Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, О.А. Рябушкин Измерение оптических свойств биологических тканей на основе нового гониометрического метода с использованием интегрирующих сфер и математического моделирования Монте-Карло // 62-я Всероссийская научная конференция МФТИ, Россия, Долгопрудный, 18–23 ноября 2018. PP 196-198
 35. Г.А. Алоян, Н.В. Коваленко, В.М. Агафонов, Д.М. Муханьков, А.В. Коняшкин, О.А. Рябушкин Концепция эквивалентной температуры матетиалов в условиях неоднородного распределения температуры // IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020 PP. 85-86
 36. Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, Т.К. Карпова, А.В. Смирнов, О.А. Рябушкин Измерение Оптических Свойств Рассеивающих Сред На Основе Гониометрического Метода С Использованием Интегрирующих Сфер И Математического Моделирования Монте-Карло // IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020 PP. 326-327
+37. T.K. Karpova, N.V. Kovalenko, G.A. Aloian, O.A. Ryabushkin Determination of egg yolk optical properties at various temperatures using modified integrating spheres method // The 19th International Conference Laser Optics, Russia, St.Petersburg, 2-6 November 2020 TuSYB-P06 
 
-
-### Conferences (20 total, 35 talks) ###
+### Conferences (22 total, 37 talks) ###
 
 1. International Conference on Mechanics and Material Science ICMMS 2016, China, Guangzhou, 15-16 October 2016.
 - Aloyan G. A., Kovalenko N. V., Ryabushkin O. A. «Determination of Surface Equivalent Temperature of Active Elements for Microelectronics and Photonics»
@@ -133,6 +133,10 @@ to be continued...
 20. IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020
 - Г.А. Алоян, Н.В. Коваленко, В.М. Агафонов, Д.М. Муханьков, А.В. Коняшкин, О.А. Рябушкин «Концепция эквивалентной температуры матетиалов в условиях неоднородного распределения температуры»
 - Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, Т.К. Карпова, А.В. Смирнов, О.А. Рябушкин «Измерение Оптических Свойств Рассеивающих Сред На Основе Гониометрического Метода С Использованием Интегрирующих Сфер И Математического Моделирования Монте-Карло»
+21. The 19th International Conference Laser Optics ICLO 2020, Russia, St.Petersburg, 2-6 November 2020
+- T.K. Karpova, N.V. Kovalenko, G.A. Aloian, O.A. Ryabushkin Determination of egg yolk optical properties at various temperatures using modified integrating spheres method
+22. 10th International Conference on Mathematical Modeling in Physical Sciences, Virtual, 6-9 September 2021
+- Karpova T., Kovalenko N., Aloian G., Ryabushkin O. Mathematical modelling of optical radiation transport in biological tissues under the conditions of moveable integrating spheres registration
 
 ## School Achievements ##
 
