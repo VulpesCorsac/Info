@@ -547,6 +547,20 @@ TODO
     * [Python Desktop Application Development: Part 2 - Design](https://app.pluralsight.com/library/courses/python-desktop-application-development-design-part2) - [certificate](https://app.pluralsight.com/learner/user/courses/v2/50d8d1f2-ebc2-476d-b606-298a6bee43a2/certificate)
     * [Software Delivery Using Test Driven Development (TDD)](https://app.pluralsight.com/guides/software-delivery-using-test-driven-development-tdd)
 
+### Stepik ###
+
+* [Algorithmic fundament](https://stepik.org/course/62940/) - [certificate](https://stepik.org/cert/1810113)
+
+### Codingame ###
+
+* [Coding speed - Legend level](https://www.codingame.com/certification/oXTy5DHbZZyC7Ttz0mhtMg)
+* [Artificial Intelligence - Silver level](https://www.codingame.com/certification/_JnWR6Ee3ttJiNr53OGoeQ)
+* [Collaboration - Silver level](https://www.codingame.com/certification/epeImnQXW2ohtKKKf6MvHg)
+* [Optimization - Legend level](https://www.codingame.com/certification/ezzbSucN4D3LgyJ7ZosXBw)
+* [Algorithms - Legend level](https://www.codingame.com/certification/h1Wz5AuN1MEsjLvKYW2KGQ)
+
+* [C++](https://www.codingame.com/certification/NcCKyNsPRXuz37q9N6yqjg)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
