@@ -80,7 +80,8 @@ to be continued...
 34. Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, О.А. Рябушкин Измерение оптических свойств биологических тканей на основе нового гониометрического метода с использованием интегрирующих сфер и математического моделирования Монте-Карло // 62-я Всероссийская научная конференция МФТИ, Россия, Долгопрудный, 18–23 ноября 2018. PP 196-198
 35. Г.А. Алоян, Н.В. Коваленко, В.М. Агафонов, Д.М. Муханьков, А.В. Коняшкин, О.А. Рябушкин Концепция эквивалентной температуры матетиалов в условиях неоднородного распределения температуры // IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020 PP. 85-86
 36. Н.В. Коваленко, Г.А. Алоян, Д.М. Муханьков, Т.К. Карпова, А.В. Смирнов, О.А. Рябушкин Измерение Оптических Свойств Рассеивающих Сред На Основе Гониометрического Метода С Использованием Интегрирующих Сфер И Математического Моделирования Монте-Карло // IX Международная конференция по фотонике и информационной оптике, Россия, Москва, МИФИ, 29-31 января 2020 PP. 326-327
-37. T.K. Karpova, N.V. Kovalenko, G.A. Aloian, O.A. Ryabushkin Determination of egg yolk optical properties at various temperatures using modified integrating spheres method // The 19th International Conference Laser Optics, Russia, St.Petersburg, 2-6 November 2020 TuSYB-P06 
+37. T.K. Karpova, N.V. Kovalenko, G.A. Aloian, O.A. Ryabushkin Determination of egg yolk optical properties at various temperatures using modified integrating spheres method // The 19th International Conference Laser Optics, Russia, St.Petersburg, 2-6 November 2020 TuSYB-P06
+38. Georgii A. Aloyan, Dmitriy A. Denisov, Ivan V. Grishchenko, Aleksey V. Konyashkin, and Oleg A. Ryabushkin, "Precise measurements of the low optical absorption coefficients of massive lithium triborate crystal boules with untreated facets formed during the growth process," Appl. Opt. 61, 10802-10806 (2022)
 
 ### Conferences (22 total, 37 talks) ###
 
@@ -555,7 +556,7 @@ TODO
 
 * [Coding speed - Legend level](https://www.codingame.com/certification/oXTy5DHbZZyC7Ttz0mhtMg)
 * [Artificial Intelligence - Silver level](https://www.codingame.com/certification/_JnWR6Ee3ttJiNr53OGoeQ)
-* [Collaboration - Silver level](https://www.codingame.com/certification/epeImnQXW2ohtKKKf6MvHg)
+* [Collaboration - Legend level](https://www.codingame.com/certification/epeImnQXW2ohtKKKf6MvHg)
 * [Optimization - Legend level](https://www.codingame.com/certification/ezzbSucN4D3LgyJ7ZosXBw)
 * [Algorithms - Legend level](https://www.codingame.com/certification/h1Wz5AuN1MEsjLvKYW2KGQ)
 
