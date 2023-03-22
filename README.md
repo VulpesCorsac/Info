@@ -562,6 +562,10 @@ TODO
 
 * [C++](https://www.codingame.com/certification/NcCKyNsPRXuz37q9N6yqjg)
 
+### Scrum ###
+
+* [Professional Scrum Master I](https://www.credly.com/badges/080266d7-bc3d-4305-8fd1-a6b6ea65af56/public_url)
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
