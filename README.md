@@ -564,8 +564,8 @@ TODO
 
 ### Scrum ###
 
-* [Professional Scrum Master I](https://www.credly.com/badges/080266d7-bc3d-4305-8fd1-a6b6ea65af56/public_url)
-* [Professional Scrum Product Owner I](https://www.credly.com/badges/67bcd616-2274-495f-9a1d-93a6b3f5848f/public_url)
+* [Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification) - [certificate](https://www.credly.com/badges/080266d7-bc3d-4305-8fd1-a6b6ea65af56/public_url)
+* [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) - [certificate](https://www.credly.com/badges/67bcd616-2274-495f-9a1d-93a6b3f5848f/public_url)
 
 ## Additional information ##
 
