@@ -34,7 +34,9 @@ Georgii Aloian (Алоян Георгий)
 
 [Align Technology](https://www.aligntech.com/) (2022) - Senior Software Engineer
 
-[Align Technology](https://www.aligntech.com/) (2022) - Acting manager
+[Align Technology](https://www.aligntech.com/) (2022) - Acting Manager
+
+[Yandex](https://yandex.ru/company/) - Expert Software Engineer
 
 ---
 
@@ -43,6 +45,9 @@ to be continued...
 ## Research ##
 
 ### Publications (37 total, 2 WoS, 11 Scopus, 4 РИНЦ) ###
+
+<details>
+  <summary>Expand</summary>
 
 1. Aloyan G.A., Kovalenko N.V. and Ryabushkin O.A. Determination of surface equivalent temperature of active elements for microelectronics and photonics // Proceedings of the 2016 International Conference on Mechanics and Materials Science (MMS2016). 2016. PP. 1177-1182. - WoS
 2. Алоян Г. А., Алексахина А. С., Рябушкин О. А. «Радиочастотно-оптическая спектроскопия активных элементов лазерных материалов» // 59-я Всероссийская научная конференция МФТИ (21–26 ноября 2016).
@@ -83,7 +88,12 @@ to be continued...
 37. T.K. Karpova, N.V. Kovalenko, G.A. Aloian, O.A. Ryabushkin Determination of egg yolk optical properties at various temperatures using modified integrating spheres method // The 19th International Conference Laser Optics, Russia, St.Petersburg, 2-6 November 2020 TuSYB-P06
 38. Georgii A. Aloyan, Dmitriy A. Denisov, Ivan V. Grishchenko, Aleksey V. Konyashkin, and Oleg A. Ryabushkin, "Precise measurements of the low optical absorption coefficients of massive lithium triborate crystal boules with untreated facets formed during the growth process," Appl. Opt. 61, 10802-10806 (2022)
 
+</details>
+
 ### Conferences (22 total, 37 talks) ###
+
+<details>
+  <summary>Expand</summary>
 
 1. International Conference on Mechanics and Material Science ICMMS 2016, China, Guangzhou, 15-16 October 2016.
 - Aloyan G. A., Kovalenko N. V., Ryabushkin O. A. «Determination of Surface Equivalent Temperature of Active Elements for Microelectronics and Photonics»
@@ -145,6 +155,8 @@ to be continued...
 22. 10th International Conference on Mathematical Modeling in Physical Sciences, Virtual, 6-9 September 2021
 - Karpova T., Kovalenko N., Aloian G., Ryabushkin O. Mathematical modelling of optical radiation transport in biological tissues under the conditions of moveable integrating spheres registration
 
+</details>
+
 ## School Achievements ##
 
 ### Conferences ###
@@ -188,6 +200,9 @@ TODO
 * [project Euler](https://projecteuler.net/progress=VulpesCorsac)
 
 ## Courses ##
+
+<details>
+  <summary>Expand</summary>
 
 ### Coursera ###
 
@@ -567,6 +582,8 @@ TODO
 * [Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification) - [certificate](https://www.credly.com/badges/080266d7-bc3d-4305-8fd1-a6b6ea65af56/public_url)
 * [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) - [certificate](https://www.credly.com/badges/67bcd616-2274-495f-9a1d-93a6b3f5848f/public_url)
 
+</details>
+
 ## Additional information ##
 
 Magic: the Gathering (Modern, Pauper, EDH), Smeshariki, Tea, Aikido, Fencing, World music, Horses
@@ -594,3 +611,4 @@ Travelling:
 * France
 * Cyprus
 * Italy
+* Serbia
