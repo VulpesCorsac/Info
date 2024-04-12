@@ -159,6 +159,9 @@ to be continued...
 
 ## School Achievements ##
 
+<details>
+  <summary>Expand</summary>
+
 ### Conferences ###
 
 TODO
@@ -167,7 +170,12 @@ TODO
 
 TODO
 
+</details>
+
 ## Accounts ##
+
+<details>
+  <summary>Expand</summary>
 
 * [vk](https://vk.com/corsacvulpes)
 * [facebook](https://www.facebook.com/CorsacVulpes)
@@ -198,6 +206,8 @@ TODO
 * [atCoder](https://atcoder.jp/users/VulpesCorsac)
 * [codingame](https://www.codingame.com/profile/e0ab0fcec6bfdf4dfca1f12703acf1340070573)
 * [project Euler](https://projecteuler.net/progress=VulpesCorsac)
+
+</details>
 
 ## Courses ##
 
